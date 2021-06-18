@@ -7,4 +7,4 @@ HR Analytics_Case Study:
 
 --> I have also used Matplotlib and Seaborn to visualize the processed data.
 
---> Finally I listed out all the reasons responsible for the increased attrition rate in the company.
+--> Finally, I listed out all the reasons responsible for the increased attrition rate in the company.
